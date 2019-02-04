@@ -5,8 +5,12 @@ h1, h2, h3{
 }
 
 body{
-	background-color:#A61111;
+	background-color:#87b0f2;
 }
 p{
 	text-align: center;
+}
+
+a:hover{
+	color: yellow;
 }
