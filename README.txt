@@ -12,7 +12,7 @@ challenging. At one time, I was told that I had a fatal error regarding
 existing repositories, and how I had no branches. I ended up deleting the
 repository and relinking everything. 
 # In terms of correct implementations, I wrote content in HTML files and
-linked a CSS file for each HTML file. 
+linked a CSS file for each HTML file, and I was mindful of CSS cascading properties. In the end I made sure I closed off my tags and provided links correctly.
 # 2. I collaborated with Yves Chen.
 # 3. I've spent approximately 5-6 hours on this assignment
 
